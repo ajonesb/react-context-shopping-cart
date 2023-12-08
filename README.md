@@ -49,6 +49,9 @@ Start the development server:
 Future improvements:
 I will be creating a Laravel backend so the application doesn't rely on local storage for adding the shopping cart items. 
 
+# Demo 
+https://codejones-react-context-shopping-cart.netlify.app/
+
 Open your web browser and visit http://localhost:3000 to see the React Shopping Cart App in action.
 
 Feel free to explore and interact with the shopping cart. Cart items are persisted using localStorage, so they will remain even after refreshing the page.
